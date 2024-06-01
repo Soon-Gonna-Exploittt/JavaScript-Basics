@@ -50,10 +50,5 @@ Understand asynchronous programming in JavaScript using callbacks, promises, and
 
 Contributions are welcomed! Feel free to open issues or pull requests for any improvements, corrections, or additional content.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
-
 This concise guide provides a structured approach for learners to navigate through essential JavaScript concepts, making it an ideal resource for beginners embarking on their journey into web development.
